@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 
+
+I am embedded HW/SW engineer learning web developement! 
+
+⚡ Currently leaving the embedded developement path and looking for new opportunities in web developement! ⚡
 
 <!--
 **panvicka/panvicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
