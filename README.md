@@ -1,8 +1,10 @@
 ### Hi 
 
-I am embedded HW/SW engineer learning web developement! 
+Embedded hardware and software (C/C++) engineer of 6 years is looking for a career change to web developement!
 
-⚡ Currently leaving the embedded developement path and looking for new opportunities in web developement! ⚡
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/eliska-veisova-143a37233/)
+&nbsp;
 
 <!--
 **panvicka/panvicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
