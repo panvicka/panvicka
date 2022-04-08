@@ -1,12 +1,7 @@
-### Hi!
-
-Embedded hardware and software (C/C++) engineer of 6 years, now working as web developer! 
+### Hi! I was embedded hardware and software (C/C++) engineer for 6 years, now working as web developer! 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panvicka&hide=html,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
- 
- <a href="mailto:eliska.veisova@gmail.com">![eliska.veisova@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
- <a href="https://www.linkedin.com/in/eliska-veisova-143a37233/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  
  
 
