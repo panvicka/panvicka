@@ -1,6 +1,6 @@
 ### Hi!
 
-Embedded hardware and software (C/C++) engineer of 6 years is looking for a career change to web developement!
+Embedded hardware and software (C/C++) engineer of 6 years, now working as web developer! 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panvicka&hide=html,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
